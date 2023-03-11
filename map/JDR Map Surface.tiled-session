@@ -1,0 +1,139 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "D:/project/JdR GDS/surface_1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Autumn.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Beach Tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Boats.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Characters.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Chest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Autumn.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Beach Tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Boats.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Ice.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Summer.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/project/JdR GDS/Map_surface.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -246,
+                "y": 15
+            }
+        },
+        "D:/project/JdR GDS/surface_1.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 897.5,
+                "y": 827
+            }
+        },
+        "D:/surface_1.tmx": {
+            "scale": 0.18190240889437925,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1745.44142614601,
+                "y": 868.597623089983
+            }
+        },
+        "Ice.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map_surface.tmx": {
+            "scale": 0.015625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 768,
+                "y": 1152
+            }
+        },
+        "Summer.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "ressources/Beach Tileset/Beach Tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "surface_1.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 897.5,
+                "y": 827
+            }
+        },
+        "surface_1.tmx#Beach Tileset": {
+            "dynamicWrapping": true
+        }
+    },
+    "last.imagePath": "D:/project/JdR GDS/map/ressources/Beach Tileset",
+    "map.fixedSize": true,
+    "map.height": 100,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 100,
+    "openFiles": [
+        "D:/project/JdR GDS/surface_1.tmx"
+    ],
+    "project": "JDR Map Surface.tiled-project",
+    "recentFiles": [
+        "D:/project/JdR GDS/surface_1.tmx",
+        "surface_1.tmx",
+        "Characters.tsx",
+        "Chest.tsx",
+        "D:/surface_1.tmx",
+        "D:/project/JdR GDS/Map_surface.tmx",
+        "Map_surface.tmx",
+        "Autumn.tsx",
+        "Ice.tsx",
+        "Boats.tsx",
+        "Summer.tsx",
+        "Beach Tileset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#000000",
+    "tileset.useTransparentColor": true
+}
